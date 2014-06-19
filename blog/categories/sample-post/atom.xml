@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[crumm[dot]net]]></title>
-  <link href="http://mcrumm.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: sample post | crumm[dot]net]]></title>
+  <link href="http://mcrumm.github.io/blog/categories/sample-post/atom.xml" rel="self"/>
   <link href="http://mcrumm.github.io/"/>
   <updated>2014-06-19T09:22:47-07:00</updated>
   <id>http://mcrumm.github.io/</id>
